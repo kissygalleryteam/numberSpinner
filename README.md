@@ -1,4 +1,13 @@
-numberSpinner
-=============
+## numberSpinner
 
-html5 数字输入控件,安步长输入，支持键盘输入,支持html5 form的type='number'等等
+* 版本：1.0
+* 教程：[http://gallery.kissyui.com/numberSpinner/1.0/guide/index.html](http://gallery.kissyui.com/numberSpinner/1.0/guide/index.html)
+* demo：[http://gallery.kissyui.com/numberSpinner/1.0/demo/index.html](http://gallery.kissyui.com/numberSpinner/1.0/demo/index.html)
+
+## changelog
+
+### V1.0
+
+    [!]
+
+

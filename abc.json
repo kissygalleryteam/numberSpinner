@@ -1,0 +1,14 @@
+{
+    "name": "numberSpinner",
+    "version": "1.0",
+    "desc": "numberSpinner是一个html5form中input的type=number的增强版，兼容所有浏览器，支持键盘输入，外观可配置",
+    "cover": "http://www.gravatar.com/avatar/6b550351ef3a3faa46d94097edb71629.png",
+    "tag":"",
+    "author": {
+        "name": "知了",
+        "email": "zhiliao.zsl@taobao.com",
+        "page": "http://www.shejian100.com"
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
